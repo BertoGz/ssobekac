@@ -154,7 +154,7 @@
         {
             "mimeType" : "image/png",
             "name" : "citybits_texture",
-            "uri" : "citybits_texture.png"
+            "uri" : "t1.png"
         }
     ],
     "accessors" : [
@@ -436,7 +436,7 @@
     "buffers" : [
         {
             "byteLength" : 55332,
-            "uri" : "car_sedan.bin"
+            "uri" : "g03.bin"
         }
     ]
 }

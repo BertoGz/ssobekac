@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "streetlight"
+            "name" : "building_A"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cylinder.162",
+            "name" : "Cube.938",
             "primitives" : [
                 {
                     "attributes" : {
@@ -56,68 +56,68 @@
         {
             "mimeType" : "image/png",
             "name" : "citybits_texture",
-            "uri" : "citybits_texture.png"
+            "uri" : "t1.png"
         }
     ],
     "accessors" : [
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 190,
+            "count" : 1392,
             "max" : [
-                0.030096590518951416,
-                0.9599239826202393,
-                0.0345110222697258
+                1,
+                1.6499998569488525,
+                1
             ],
             "min" : [
-                -0.2392103672027588,
-                9.156763553619385e-06,
-                -0.034511469304561615
+                -1,
+                0,
+                -1
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 190,
+            "count" : 1392,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 190,
+            "count" : 1392,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 528,
+            "count" : 2484,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 2280,
+            "byteLength" : 16704,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1520,
-            "byteOffset" : 2280,
+            "byteLength" : 11136,
+            "byteOffset" : 16704,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2280,
-            "byteOffset" : 3800,
+            "byteLength" : 16704,
+            "byteOffset" : 27840,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1056,
-            "byteOffset" : 6080,
+            "byteLength" : 4968,
+            "byteOffset" : 44544,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 7136,
-            "uri" : "streetlight.bin"
+            "byteLength" : 49512,
+            "uri" : "g05.bin"
         }
     ]
 }

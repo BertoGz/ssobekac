@@ -56,7 +56,7 @@
         {
             "mimeType" : "image/png",
             "name" : "citybits_texture",
-            "uri" : "citybits_texture.png"
+            "uri" : "t1.png"
         }
     ],
     "accessors" : [
@@ -130,7 +130,7 @@
     "buffers" : [
         {
             "byteLength" : 84840,
-            "uri" : "building_E.bin"
+            "uri" : "g09.bin"
         }
     ]
 }

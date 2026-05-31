@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "building_B"
+            "name" : "building_G"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cube.936",
+            "name" : "Cube.932",
             "primitives" : [
                 {
                     "attributes" : {
@@ -56,21 +56,21 @@
         {
             "mimeType" : "image/png",
             "name" : "citybits_texture",
-            "uri" : "citybits_texture.png"
+            "uri" : "t1.png"
         }
     ],
     "accessors" : [
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 1843,
+            "count" : 2920,
             "max" : [
-                1,
-                1.6499998569488525,
+                1.0033698081970215,
+                2.9763526916503906,
                 1
             ],
             "min" : [
-                -1,
+                -1.0033698081970215,
                 0,
                 -1
             ],
@@ -79,45 +79,45 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 1843,
+            "count" : 2920,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 1843,
+            "count" : 2920,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 3246,
+            "count" : 5133,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 22116,
+            "byteLength" : 35040,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 14744,
-            "byteOffset" : 22116,
+            "byteLength" : 23360,
+            "byteOffset" : 35040,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 22116,
-            "byteOffset" : 36860,
+            "byteLength" : 35040,
+            "byteOffset" : 58400,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 6492,
-            "byteOffset" : 58976,
+            "byteLength" : 10266,
+            "byteOffset" : 93440,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 65468,
-            "uri" : "building_B.bin"
+            "byteLength" : 103708,
+            "uri" : "g11.bin"
         }
     ]
 }
